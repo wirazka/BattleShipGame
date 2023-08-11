@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleShipGame", "BattleShipGame\BattleShipGame.csproj", "{FF199121-4549-4F5A-BD96-6E5A68451CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF199121-4549-4F5A-BD96-6E5A68451CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF199121-4549-4F5A-BD96-6E5A68451CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF199121-4549-4F5A-BD96-6E5A68451CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF199121-4549-4F5A-BD96-6E5A68451CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4984E9-1C9D-4885-8503-E6EA017C9A9E}
+	EndGlobalSection
+EndGlobal
